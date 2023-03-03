@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background:url(/Parralax-image.jpg);
+}
+.parallax-1 {
+    width: 100%;
+    height: 40px;
+    background:'https://media.geeksforgeeks.org/wp-content/uploads/20210402175040/back22.jpg';
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.parallax-1 h2{
+    margin: auto;
+    position: relative;
+    height:20px;
+    width: 250px;
+    padding: 10px;
+    background-color: black;
+    color: black;
+    text-align: center;
+    border-radius: 2px 2px 2px 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.parallax-2{
+    width: 100%;
+    height: 40px;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.parallax-2 h2{
+    margin: auto;
+    position: relative;
+    height:20px;
+    width: 65px;
+    padding: 10px;
+    background-color: rgb(81, 69, 4);
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para-1{
+    padding: 50px;
+    background-color: black;
+    color: gold;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para-2{
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: gold;
+}
